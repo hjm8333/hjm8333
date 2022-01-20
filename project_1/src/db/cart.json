@@ -1,0 +1,18 @@
+{
+  "cartLists": [
+    {
+      "productName": "Louis Vuitton no.2",
+      "id": 2,
+      "quantity": 3,
+      "price": 370000,
+      "titleImage": "02.png"
+    },
+    {
+      "productName": "Louis Vuitton no.4",
+      "id": 4,
+      "quantity": 6,
+      "price": 550000,
+      "titleImage": "04.png"
+    }
+  ]
+}
